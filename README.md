@@ -18,3 +18,6 @@
 2. Navigate to the directory where the **DatabaseApp.py** file is.
 3. Run the **DatabaseApp.py** program by entering `py ./DatabaseApp.py` command.
 4. Follow the instructions from the program (in the terminal).
+
+## Link to video:
+https://youtu.be/YtW-aAw_MIQ
